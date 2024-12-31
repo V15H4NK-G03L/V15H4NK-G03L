@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Expense Tracker**
 
-- 🌱 I’m currently learning **C#, .NET, DSA**
+- 🌱 I’m currently learning **C#, .NET, DSA, Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/V15H4NK-G03L](https://github.com/V15H4NK-G03L)
 
