@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v15h4nk-g03l&label=Profile%20views&color=0e75b6&style=flat" alt="v15h4nk-g03l" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **A Full Stack Project**
 
 - 🌱 I’m currently learning **C#, .NET, DSA, Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/V15H4NK-G03L](https://github.com/V15H4NK-G03L)
 
-- 💬 Ask me about **HTML, CSS, SQL**
+- 💬 Ask me about **HTML, CSS, SQL, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
