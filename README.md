@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v15h4nk-g03l&label=Profile%20views&color=0e75b6&style=flat" alt="v15h4nk-g03l" /> </p>
 
-- 🔭 I’m currently working on **A Full Stack Project**
+- 🔭 I’m currently working on a **Full Stack Project**
 
 - 🌱 I’m currently learning **C#, .NET, DSA, Web Development**
 
